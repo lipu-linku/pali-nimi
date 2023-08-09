@@ -1,0 +1,16 @@
+## monsuta
+
+#### sona pu
+
+
+
+#### sona Linku pi toki Inli
+
+fear, dread; monster, predator; threat, danger
+
+#### sona Linku pi toki pona
+
+pilin ike pi ken moli; pilin ike pi ken pakala; ijo ni: ona li pana e pilin ni
+
+#### sona sin
+
