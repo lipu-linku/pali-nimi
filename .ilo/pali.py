@@ -25,6 +25,10 @@ LIPU_NIMI = """## %(nimi)s
 
 %(toki_pona)s
 
+#### sona ku
+
+%(sona_ku)s
+
 #### sona sin
 
 """
@@ -48,6 +52,7 @@ def o_lipu_e_nimi(nimi: str, sona: dict):
         # nimi kijetesantakalu li jo ala
         "toki_Inli": sona["def"]["en"],
         "toki_pona": sona["def"]["tok"],
+        "sona_ku": sona.get("ku_data", ""),
     }
 
     with open(ma_lipu, "w") as lipu:

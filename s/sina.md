@@ -12,5 +12,9 @@ you
 
 toki la, nimi "sina" li ijo kute.
 
+#### sona ku
+
+you⁵, your⁵, yours⁵, yourself⁴
+
 #### sona sin
 

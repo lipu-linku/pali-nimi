@@ -12,5 +12,9 @@ what? which?
 
 nimi pi wile sona
 
+#### sona ku
+
+what⁵, which⁴, huh³
+
 #### sona sin
 

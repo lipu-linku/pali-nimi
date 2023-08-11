@@ -12,5 +12,9 @@ bowing down, downward, humble, lowly, dependent | ALT bottom, lower part, under,
 
 sewi ala: ijo anpa li lon noka pi ijo ante; ijo tu li utala la ijo anpa li pona sama ala ijo pi anpa ala
 
+#### sona ku
+
+down⁵, bottom⁴, lower⁴, defeat³, below³, beneath³, under², bow², underlying²
+
 #### sona sin
 

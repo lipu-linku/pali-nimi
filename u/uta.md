@@ -12,5 +12,9 @@ mouth, lips, oral cavity, jaw
 
 uta li lupa sinpin li ken jo e ijo li ken kama insa e ijo.
 
+#### sona ku
+
+mouth⁵, lip³, kiss³, jaw³, bite², chew²
+
 #### sona sin
 

@@ -12,5 +12,9 @@ red, reddish
 
 kule uta, kule pi telo soweli.
 
+#### sona ku
+
+red⁵
+
 #### sona sin
 

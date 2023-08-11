@@ -12,5 +12,9 @@ fish, marine animal, sea creature
 
 ijo ni li tawa lon telo li ken moku e kon tan telo.
 
+#### sona ku
+
+fish⁵, sea creature⁵, salmon⁴
+
 #### sona sin
 

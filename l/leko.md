@@ -12,5 +12,9 @@ stairs, square, block, corner, cube
 
 sitelen la, leko li ijo pi poka tu tu.
 
+#### sona ku
+
+square⁴, cube³, block³, stair², brick², polyhedron²
+
 #### sona sin
 

@@ -12,5 +12,9 @@ long hard thing; branch, rod, stick
 
 linja kiwen
 
+#### sona ku
+
+stick⁵, rod⁵, stake⁴, pole⁴, branch³, staff³, straight², bar², stem¹, beam¹
+
 #### sona sin
 

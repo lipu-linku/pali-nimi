@@ -12,5 +12,9 @@ have sexual relations with
 
 unpa la ijo li pana e pilin sijelo pona tawa ijo ante. tenpo la ijo sin li ken tan unpa pi ijo ante
 
+#### sona ku
+
+sex⁵, sexual⁵, sexually⁵, fucking³, fuck²
+
 #### sona sin
 

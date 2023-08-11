@@ -12,5 +12,9 @@ yellow, yellowish
 
 kule suno; kasi li ken kule ni lon tenpo; sike waso la insa li kule ni
 
+#### sona ku
+
+yellow⁵, golden²
+
 #### sona sin
 

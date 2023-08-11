@@ -12,5 +12,9 @@ to produce a sound; recite, utter aloud
 
 ijo kute; ijo li kalama la ijo ante li ken kute e ni
 
+#### sona ku
+
+sound⁵, noise⁴, tone³, bang²
+
 #### sona sin
 

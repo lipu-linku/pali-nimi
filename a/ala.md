@@ -12,5 +12,9 @@ no, not, zero; [~ ala ~] (used to form a yes-no question); nothing
 
 ijo ala li lon la ijo ale li weka
 
+#### sona ku
+
+not⁵, none⁵, zero⁵, no⁵, nothing⁵, neither³, nor², hardly²
+
 #### sona sin
 

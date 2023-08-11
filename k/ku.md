@@ -12,5 +12,9 @@ interacting with the Toki Pona Dictionary by Sonja Lang
 
 lipu nanpa tu pi jan Sonja la, sina lukin e ona la sina ku. sina kepeken ona la sina ku.
 
+#### sona ku
+
+
+
 #### sona sin
 

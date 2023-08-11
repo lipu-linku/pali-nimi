@@ -12,5 +12,9 @@ PARTICLE (between multiple subjects)
 
 ijo nanpa wan li pali. ijo nanpa tu kin li pali. ni la ijo nanpa wan en ijo nanpa tu li pali.
 
+#### sona ku
+
+and³, plus³
+
 #### sona sin
 

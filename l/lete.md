@@ -12,5 +12,9 @@ cold, cool; uncooked, raw
 
 seli ala; suno li weka mute la telo li ken kama kiwen tan lete
 
+#### sona ku
+
+cold⁵, raw³, frozen³, freeze², cool²
+
 #### sona sin
 

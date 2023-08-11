@@ -12,5 +12,9 @@ black, dark, unlit
 
 pimeja li kule pi weka suno.
 
+#### sona ku
+
+dark⁵, black⁵, darkness⁵, shadow³, shade³
+
 #### sona sin
 

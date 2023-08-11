@@ -12,5 +12,9 @@ ADJECTIVE new, fresh; additional, another, extra
 
 mi moku e pan, taso ona o jo e ijo sin. mi pona e ona kepeken ni: mi pana e ijo sin tawa moku mi. ijo ni li namako.
 
+#### sona ku
+
+spice⁵, extra⁴, adornment³, additional³, extension², bonus², salt², fancy², special²
+
 #### sona sin
 

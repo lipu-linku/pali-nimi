@@ -12,5 +12,9 @@ sweet, fragrant; cute, innocent, adorable
 
 ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.
 
+#### sona ku
+
+sweet⁵, cute⁵, candy⁴, sugar³, gentle², dessert², tender², soft², darling², treat²
+
 #### sona sin
 

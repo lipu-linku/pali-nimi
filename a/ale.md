@@ -14,5 +14,9 @@ all; abundant, countless, bountiful, every, plentiful; abundance, everything, li
 
 ijo ala li lon ala ijo ale; ijo mute a
 
+#### sona ku
+
+every⁴, everything⁴, all⁴, entire⁴, universal³, completely³, total³, entirely³, universe³, altogether³, comprehensive³, full², totally², each², fully², any², thoroughly², absolute², general², countless², complete², whole², hundred²
+
 #### sona sin
 

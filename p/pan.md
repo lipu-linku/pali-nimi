@@ -12,5 +12,9 @@ cereal, grain; barley, corn, oat, rice, wheat; bread, pasta
 
 moku tan kasi.
 
+#### sona ku
+
+bread⁵, grain⁵, wheat⁴, rice³, corn², carbohydrate²
+
 #### sona sin
 

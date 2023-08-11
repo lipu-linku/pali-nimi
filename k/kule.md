@@ -12,5 +12,9 @@ colorful, pigmented, painted | ALT of or relating to the LGBT+ community
 
 jelo en loje en laso en walo en pimeja li kule
 
+#### sona ku
+
+colour⁵, diverse², LGBTQ+², paint², lesbian², gay², spectrum²
+
 #### sona sin
 

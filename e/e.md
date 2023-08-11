@@ -12,5 +12,9 @@ PARTICLE (before the direct object)
 
 nimi e li pana e sona ni: nimi kama li ken kama ante tan pali pi ijo toki nanpa wan li ken pana e pilin tawa ijo toki nanpa wan
 
+#### sona ku
+
+
+
 #### sona sin
 

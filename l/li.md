@@ -12,5 +12,9 @@ PARTICLE (between any subject except mi alone or sina alone and its verb; also t
 
 nimi li li tu e nimi ijo e nimi pali lon toki
 
+#### sona ku
+
+
+
 #### sona sin
 

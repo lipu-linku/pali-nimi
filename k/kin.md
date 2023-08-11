@@ -12,5 +12,9 @@ PARTICLE (emphasis, emotion or confirmation)
 
 taso ala; nimi kin li toki e ni: ijo ante li lon. ijo ante en ijo kin li sama.
 
+#### sona ku
+
+also⁴, too⁴, indeed², especially²
+
 #### sona sin
 

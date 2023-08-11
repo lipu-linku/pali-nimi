@@ -12,5 +12,9 @@ reptile, amphibian
 
 soweli kiwen pi telo sijelo lete.
 
+#### sona ku
+
+reptile⁵, frog³
+
 #### sona sin
 

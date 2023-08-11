@@ -12,5 +12,9 @@ time, duration, moment, occasion, period, situation
 
 tenpo la ale li kama ante li kama moli li kama weka.
 
+#### sona ku
+
+time⁵, timing⁴, session⁴, occasion⁴, phase⁴, moment³, date³, circumstance³, hour³, appointment³, scenario³, event², season², period², interval², situation², instance²
+
 #### sona sin
 

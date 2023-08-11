@@ -12,5 +12,9 @@ moon, night sky object, star | ALT glow, glowing light, light in the dark
 
 mun li suno ale lon sewi pimeja
 
+#### sona ku
+
+moon⁵, celestial body⁴, star², planet¹
+
 #### sona sin
 

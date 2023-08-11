@@ -12,5 +12,9 @@ bug, insect, ant, spider
 
 soweli lili pi noka mute. pipi mute li ken tawa sama waso
 
+#### sona ku
+
+bug⁵, insect⁵, spider³
+
 #### sona sin
 

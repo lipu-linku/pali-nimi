@@ -12,5 +12,9 @@ white, whitish; light-coloured, pale
 
 pimeja ala; kule ala
 
+#### sona ku
+
+white⁵, pale⁴
+
 #### sona sin
 

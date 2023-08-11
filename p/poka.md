@@ -12,5 +12,9 @@ hip, side; next to, nearby, vicinity | ALT along with (comitative), beside
 
 lon pi ijo tu li sama la ijo tu li lon poka. sinpin en monsi en sewi en anpa li poka ijo
 
+#### sona ku
+
+side⁵, hip⁴, beside³, aside³, closely², left (not right)², sidebar², alongside²
+
 #### sona sin
 

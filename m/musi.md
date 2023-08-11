@@ -12,5 +12,9 @@ artistic, entertaining, frivolous, playful, recreation
 
 ijo musi li pana e pilin pona; musi mute la jan li kalama pi wile ala kepeken uta
 
+#### sona ku
+
+entertainment⁵, fun⁵, funny⁵, play⁵, game⁵, comedy⁵, art³, artistic³, fascinating², humour², interesting², irony², sport², enjoy², creative², playoffs²
+
 #### sona sin
 

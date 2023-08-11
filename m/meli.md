@@ -12,5 +12,9 @@ woman, female, feminine person; wife
 
 mije ala; kulupu wan pi kulupu jan
 
+#### sona ku
+
+female⁵, lady⁴, woman⁴, girl³, wife², cisgender woman², transgender woman², ma’am²
+
 #### sona sin
 

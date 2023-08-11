@@ -12,5 +12,9 @@ any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, oli
 
 kijetesantakalu li soweli. ona li jo e sinpin pimeja e monsi linja. ona li kepeken luka ona.
 
+#### sona ku
+
+procyonid³, Musteloidea²
+
 #### sona sin
 

@@ -12,5 +12,9 @@ blue, green
 
 kule sewi (lon tenpo suno) en kule pi kasi mute li laso
 
+#### sona ku
+
+blue⁵, teal⁴, green³
+
 #### sona sin
 

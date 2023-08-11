@@ -12,5 +12,9 @@ unusual, strange; silly; drunk, intoxicated
 
 nasin pi tenpo mute ala; ijo pi sona ala
 
+#### sona ku
+
+weird⁵, unusual⁵, strange⁵, odd⁵, drunk⁴, silly³, wild³, ridiculous², psychoactive², nonsense², confuse², suspicious²
+
 #### sona sin
 

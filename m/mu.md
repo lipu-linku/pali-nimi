@@ -12,5 +12,9 @@ PARTICLE (animal noise or communication)
 
 mu li kalama soweli.
 
+#### sona ku
+
+woof⁵, meow⁵, animal vocalization⁵, ribbit⁵, purr⁵, neigh⁵, cock-a-doodle-doo³
+
 #### sona sin
 
