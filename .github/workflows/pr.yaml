@@ -1,0 +1,15 @@
+name: Create PR on branch creation
+on:
+  push:
+    branches:
+      - word/*
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create pull request
+        continue-on-error: true
+        run: gh pr create -B "main" -H "$BRANCH" -t "$BRANCH" -b "This pull request was automatically generated."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: ${{ github.ref_name }}
