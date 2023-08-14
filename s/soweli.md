@@ -18,3 +18,4 @@ animal⁵, deer⁵, creature⁴, dog⁴, cat⁴, llama³, goat³, Musteloidea³,
 
 #### sona sin
 
+fuzzy creature, land animal, beast
