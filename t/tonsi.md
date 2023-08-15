@@ -22,4 +22,4 @@ nonbinary, gender nonconforming, genderqueer, transgender\*
 
 **Commentary**
 
-* - Broader in meaning, somewhat less commonly accepted
+\* - Broader in meaning, somewhat less commonly accepted
