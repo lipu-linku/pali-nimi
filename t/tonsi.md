@@ -18,8 +18,8 @@ non-binary person³, transgender person³, gender non-conforming person³, inter
 
 #### sona sin
 
-non-binary, gender-non-conforming, genderqueer; transgender\*
+nonbinary, gender nonconforming, genderqueer, transgender\*
 
 **Commentary**
 
-\*Broader meaning than the former definition that is not as commonly accepted.
+* - Broader in meaning, somewhat less commonly accepted
