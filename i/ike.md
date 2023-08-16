@@ -18,4 +18,4 @@ bad⁵, harsh⁵, badly⁵, mean (adj)⁴, evil⁴, negative⁴, problem⁴, hor
 
 #### sona sin
 
-negative qualities, such as: bad, unpleasant, harmful, unneeded
+negative qualities, e.g. bad, unpleasant, harmful, unneeded
