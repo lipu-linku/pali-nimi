@@ -18,3 +18,4 @@ hole⁵, door⁵, orifice⁴, pit⁴, window³, gate³, entrance², opening², g
 
 #### sona sin
 
+hole, pit, cave, doorway, window, portal
