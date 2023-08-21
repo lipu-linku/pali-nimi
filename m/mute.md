@@ -19,3 +19,4 @@ plenty⁵, multiple⁵, many⁵, much⁵, very⁵, lots⁵, several⁵, numerous
 
 #### sona sin
 
+many, several, very; quantity; (number) twenty
