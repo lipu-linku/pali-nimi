@@ -18,3 +18,4 @@ want⁵, wish⁵, intend⁵, require⁵, need⁵, desire⁵, intention⁵, willi
 
 #### sona sin
 
+want, desire, wish, require; (preverb) want to
