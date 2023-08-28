@@ -18,3 +18,4 @@ entertainment⁵, fun⁵, funny⁵, play⁵, game⁵, comedy⁵, art³, artistic
 
 #### sona sin
 
+fun, game, entertainment, art, play, amusing, interesting, comical
