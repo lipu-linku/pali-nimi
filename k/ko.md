@@ -18,3 +18,4 @@ goo⁵, semisolid⁵, paste⁴, powder⁴, clay³, sand², dust², substance², 
 
 #### sona sin
 
+semi-solid, e.g. paste, powder, goo, sand, soil, clay; squishy, moldable
