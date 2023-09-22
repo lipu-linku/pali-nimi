@@ -18,3 +18,4 @@ ah⁵, oh⁵, ha⁵, ooh⁴, uh⁴, gosh⁴, whoa⁴, wow⁴, um³, huh³, uh-hu
 
 #### sona sin
 
+(interjection) ah, oh, ha, eh, um, oy; (particle) [placed after something for emphasis or emotion]
