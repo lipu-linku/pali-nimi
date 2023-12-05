@@ -18,3 +18,4 @@ bread⁵, grain⁵, wheat⁴, rice³, corn², carbohydrate²
 
 #### sona sin
 
+grains, starchy foods, baked goods; e.g. rice, sorghum, bread, noodles, masa, porridge, injera
