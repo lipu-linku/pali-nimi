@@ -18,3 +18,4 @@ trading⁵, trade⁵, shopping⁵, deal⁴, commerce⁴, purchase⁴, sales⁴, 
 
 #### sona sin
 
+trade, barter, exchange, swap, buy, sell; market, shop, fair, bazaar, place of business
