@@ -18,3 +18,6 @@ leg⁵, foot⁴, lap³, ankle³, kick³, heel², knee², base²
 
 #### sona sin
 
+foot, leg, organ of locomotion, roots
+
+noka can also mean any action involving the foot or leg, e.g. to kick, to step on, to touch with the leg
