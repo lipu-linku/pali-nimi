@@ -18,3 +18,4 @@ use⁵, utilize⁴, via³, employ³, used², operate², interact², equip²
 
 #### sona sin
 
+(preposition) using, with, by means of
